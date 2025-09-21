@@ -1,0 +1,51 @@
+.main-heading-decoration{
+    text-decoration: underline;
+    color:green;
+    text-align:center;
+    font-size:50px;
+    font-weight:bold;
+}
+.time-decoration{
+    text-decoration: underline;
+    color:black;
+    text-align:center;
+    font-size:50px;
+    font-weight:bold;
+}
+.correct-wrong 
+{
+    text-align:center;
+    font-size:50px;
+    font-weight:bold;
+}
+.heading-decoration{
+    color:brown;
+    font-size:40px;
+    padding:20px;
+}
+.box{
+    background-color:pink;
+    border-width:10px;
+    font-size:30px;
+}
+.apply-padding 
+{
+    padding:20px;
+}
+.centering{
+    text-align:center;
+}
+.card
+{
+    background-color:azure;
+}
+.option{
+    margin-bottom:10px;
+}
+.image{
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
